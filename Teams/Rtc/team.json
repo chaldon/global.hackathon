@@ -1,0 +1,20 @@
+
+{
+    "teamname": "Rtc",
+    "members":[
+	{
+	    "name":"Alex Shchelokov",
+	    "twitter":"",
+	    "koding":"chaldon",
+	    "location":"Rockville,MD",
+	    "lead":true
+	},
+	
+	{
+	    "name":"Artem Lantsev",
+	    "twitter":"",
+	    "koding":"artln",
+	    "location":"Moscow,RU"
+	}
+    ]
+}
